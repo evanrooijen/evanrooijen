@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Elmer! 👋
 
-<!--
-**evanrooijen/evanrooijen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a developer with a passion for creating innovative solutions and contributing to open-source projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning new technologies and expanding my skill set.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about React, Typescript, CICD and web development.
+- 📫 How to reach me: [email@e.van.rooijen@hotmail.com](mailto:e.van.rooijen@hotmail.com)
+
+## My GitHub Stats
+
+![Elmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanrooijen&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanrooijen&layout=compact&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/evanrooijen/)
